@@ -20,19 +20,19 @@ export const WHATSAPP_LINKS = {
 // Authentication and Registration Links
 export const AUTH_LINKS = {
   PROFESSIONAL: {
-    SIGNUP: 'https://syd-83174.bubbleapps.io/auth?t=cadastro&p=Profissional',
-    LOGIN: 'https://syd-83174.bubbleapps.io/auth?t=login&p=Profissional',
-    FORGOT_PASSWORD: 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Profissional'
+    SIGNUP: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* https://syd-83174.bubbleapps.io/auth?t=cadastro&p=Profissional */
+    LOGIN: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* https://syd-83174.bubbleapps.io/auth?t=login&p=Profissional */
+    FORGOT_PASSWORD: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd' /* https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Profissional */
   },
   PATIENT: {
-    SIGNUP: 'https://syd-83174.bubbleapps.io/auth?t=cadastro&p=Paciente',
-    LOGIN: 'https://syd-83174.bubbleapps.io/auth?t=login&p=Paciente',
-    FORGOT_PASSWORD: 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Paciente'
+    SIGNUP: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* 'https://syd-83174.bubbleapps.io/auth?t=cadastro&p=Paciente */
+    LOGIN: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* https://syd-83174.bubbleapps.io/auth?t=login&p=Paciente */
+    FORGOT_PASSWORD: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd' /* https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Paciente */
   },
   RH: {
-    SIGNUP: 'https://syd-83174.bubbleapps.io/auth?t=cadastro&p=RH',
-    LOGIN: 'https://syd-83174.bubbleapps.io/auth?t=login&p=RH',
-    FORGOT_PASSWORD: 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=RH'
+    SIGNUP: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* https://syd-83174.bubbleapps.io/auth?t=cadastro&p=RH */
+    LOGIN: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* https://syd-83174.bubbleapps.io/auth?t=login&p=RH */
+    FORGOT_PASSWORD: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd' /* https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=RH */
   }
 } as const;
 

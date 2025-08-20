@@ -1,5 +1,8 @@
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
+import GoogleIcon from "@/assets/icons/icon-google.svg";
+import AppleIcon from "@/assets/icons/icon-apple.svg";
+import { AUTH_LINKS } from "@/constants/links";
 
 const Hero = () => {
   return (
@@ -33,14 +36,32 @@ const Hero = () => {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <Button size="lg" className="flex w-full sm:w-[20.25rem] p-0 justify-center items-center rounded-2xl border border-white bg-secondary hover:bg-secondary/90 h-auto">
+              <Button size="lg" className="flex w-full lg:w-[15.875rem] p-0 justify-center items-center rounded-2xl border border-white bg-secondary hover:bg-secondary/90 h-auto">
                 <a
-                  href="https://syd-83174.bubbleapps.io/auth?t=cadastro&p=Paciente"
+                  href={AUTH_LINKS.PATIENT.SIGNUP}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-full px-6 py-3.5 text-white text-xl font-semibold"
+                  className="flex w-full py-3.5 px-6 justify-center items-center gap-4 text-white text-xl font-semibold"
                 >
-                  Comece agora
+                  <GoogleIcon
+                    alt="Logo Google"
+                    className="inline-block w-6 h-6"
+                  />
+                  Baixe na Play Store
+                </a>
+              </Button>
+              <Button size="lg" className="flex w-full lg:w-[15.875rem] p-0 justify-center items-center rounded-2xl border border-secondary bg-white hover:bg-white/90 h-auto">
+                <a
+                  href="https://apps.apple.com/us/app/syd/id6751082327"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex w-full py-3.5 px-6 justify-center items-center gap-4 text-secondary text-xl font-semibold"
+                >
+                  <AppleIcon
+                    alt="Logo Apple"
+                    className="inline-block w-6 h-6"
+                  />
+                  Baixe na App Store
                 </a>
               </Button>
             </div>
