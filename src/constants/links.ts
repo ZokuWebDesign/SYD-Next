@@ -23,12 +23,12 @@ export const AUTH_LINKS = {
   PATIENT: {
     SIGNUP: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* 'https://syd-83174.bubbleapps.io/auth?t=cadastro&p=Paciente */
     LOGIN: 'https://syd-83174.bubbleapps.io/auth?t=login&p=Paciente',
-    FORGOT_PASSWORD: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd' /* https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Paciente */
+    FORGOT_PASSWORD: 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Paciente'
   },
   PROFESSIONAL: {
     SIGNUP: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* https://syd-83174.bubbleapps.io/auth?t=cadastro&p=Profissional */
-    LOGIN: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* https://syd-83174.bubbleapps.io/auth?t=login&p=Profissional */
-    FORGOT_PASSWORD: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd' /* https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Profissional */
+    LOGIN: 'https://syd-83174.bubbleapps.io/auth?t=login&p=Profissional',
+    FORGOT_PASSWORD: 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Profissional'
   },
   RH: {
     SIGNUP: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* https://syd-83174.bubbleapps.io/auth?t=cadastro&p=RH */
