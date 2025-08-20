@@ -51,8 +51,8 @@ export const SOCIAL_LINKS = {
 
 // App Store Links
 export const STORE_LINKS = {
-  GOOGLE_PLAY: 'https://play.google.com/store/apps/details?id=com.syd.app',
-  APP_STORE: 'https://apps.apple.com/app/syd/id123456789'
+  GOOGLE_PLAY: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd',
+  APP_STORE: 'https://apps.apple.com/us/app/syd/id6751082327'
 } as const;
 
 // Page Links
