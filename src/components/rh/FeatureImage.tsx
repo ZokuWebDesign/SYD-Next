@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { AUTH_LINKS } from "@/constants/links";
+import { WHATSAPP_LINKS } from "@/constants/links";
 
 const FeatureImage = () => {
   return (
@@ -24,7 +24,7 @@ const FeatureImage = () => {
           <div className="flex flex-col sm:flex-row w-full gap-4">
             <Button size="lg" className="flex w-full sm:w-[20.25rem] p-0 justify-center items-center rounded-2xl border border-white bg-secondary hover:bg-secondary/90 h-auto">
               <a
-                href={AUTH_LINKS.RH.LOGIN}
+                href={WHATSAPP_LINKS.RH.PITCH}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full px-6 py-3.5 text-white text-xl font-semibold"

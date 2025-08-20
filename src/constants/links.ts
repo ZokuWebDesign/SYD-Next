@@ -3,7 +3,8 @@
 export const WHATSAPP_LINKS = {
   PATIENT: {
     CONTACT: 'https://api.whatsapp.com/send/?phone=5515996945695&text=oi,%20gostaria%20de%20agendar%20uma%20consulta',
-    FAQ: 'https://api.whatsapp.com/send/?phone=5515996945695&text=Tenho+dúvidas%2C+poderia+me+ajudar%3F&type=phone_number&app_absent=0'
+    FAQ: 'https://api.whatsapp.com/send/?phone=5515996945695&text=Tenho+dúvidas%2C+poderia+me+ajudar%3F&type=phone_number&app_absent=0',
+    REFERRAL: 'https://api.whatsapp.com/send/?phone=5515996945695&text=Olá%21+Gostaria+de+indicar+minha+empresa+para+conhecer+os+benefícios+do+SYD+para+colaboradores.&type=phone_number&app_absent=0'
   },
   PROFESSIONAL: {
     CONTACT: 'https://api.whatsapp.com/send/?phone=5515996945695&text=Ol%C3%A1%21+Tenho+interesse+em+atender+pelo+Syd+e+gostaria+de+saber+mais.&type=phone_number&app_absent=0',
