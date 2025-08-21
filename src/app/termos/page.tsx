@@ -129,6 +129,26 @@ const TermsOfUse = () => {
               <div>
                 <p><strong>4.4. Chargeback, Fraude e Inadimplemento.</strong> A contestação indevida de um pagamento (chargeback) junto à operadora do cartão, sem prévio e justificado contato com os canais de suporte da SyD, será considerada quebra contratual. Tal ato sujeitará o Usuário à suspensão imediata e/ou exclusão da conta, bem como à cobrança dos valores devidos pelas vias administrativas e/ou judiciais, acrescidos de multa, juros, correção monetária e honorários advocatícios.</p>
               </div>
+
+              <div>
+                <p><strong>4.5. Do Repasse de Honorários, Ciclo de Faturamento e Condições de Pagamento para Psicólogos(as).</strong></p>
+                <div className="ml-4 space-y-2">
+                  <p><strong>4.5.1.</strong> O repasse devido ao Psicólogo(a), a título de honorários profissionais, corresponderá ao percentual fixo de 50% (cinquenta por cento) sobre o valor líquido efetivamente recebido pela SyD por cada atendimento concluído e validado através da Plataforma.</p>
+                  <p><strong>4.5.2.</strong> O ciclo de apuração para o faturamento dos honorários terá periodicidade mensal, com o fechamento ocorrendo no último dia de cada mês calendário.</p>
+                  <p><strong>4.5.3.</strong> Para a devida liquidação financeira, é condição essencial que o Psicólogo(a) emita e encaminhe à SyD a correspondente Nota Fiscal de Serviços, sem incorreções, até o 3º (terceiro) dia útil do mês subsequente ao da prestação dos serviços. Cumprida esta condição, o pagamento será processado e efetuado pela SyD até o 10º (décimo) dia útil do mesmo mês.</p>
+                  <p><strong>4.5.4.</strong> O não envio da Nota Fiscal no prazo estipulado na cláusula anterior, ou o envio de documento com vícios que impeçam seu regular processamento fiscal e contábil, implicará na prorrogação automática do pagamento para o ciclo de faturamento do mês seguinte, sem que isso configure mora ou inadimplemento por parte da SyD e sem a incidência de quaisquer encargos.</p>
+                  <p><strong>4.5.5.</strong> Na hipótese de inadimplemento por parte da SyD, desde que a Nota Fiscal tenha sido enviada corretamente e no prazo, incidirão sobre o valor devido multa de 2% (dois por cento) e juros de mora de 1% (um por cento) ao mês, calculados pro rata die, em conformidade com a legislação civil aplicável.</p>
+                </div>
+              </div>
+
+              <div>
+                <p><strong>4.6. Da Taxa de Licenciamento de Uso da Plataforma para Psicólogos(as).</strong></p>
+                <div className="ml-4 space-y-2">
+                  <p><strong>4.6.1.</strong> Pela licença de uso da Plataforma e pelo acesso ao ecossistema de serviços SyD, o Psicólogo(a) pagará à SyD uma taxa de assinatura ("Taxa de Licenciamento"), a qual poderá ser quitada na modalidade mensal, no valor de R$ 19,90 (dezenove reais e noventa centavos), ou na modalidade anual, no valor de R$ 189,90 (cento e oitenta e nove reais e noventa centavos).</p>
+                  <p><strong>4.6.2.</strong> O não pagamento da Taxa de Licenciamento na data de seu vencimento implicará na suspensão automática do acesso do Psicólogo(a) à Plataforma, impedindo-o de receber novas solicitações de atendimento e de realizar sessões agendadas, até a regularização da pendência financeira.</p>
+                  <p><strong>4.6.3.</strong> A SyD poderá, a seu exclusivo critério, conceder períodos de isenção ou gratuidade, como o período de gratuidade promocional vigente até janeiro de 2026, cujas condições serão comunicadas diretamente aos Psicólogos(as) elegíveis. A existência de um período de isenção não gera direito adquirido, podendo a cobrança ser iniciada ou retomada a qualquer tempo após o término do período promocional, mediante notificação prévia. Os valores poderão ser ajustados conforme aviso prévio.</p>
+                </div>
+              </div>
             </div>
           </section>
 
@@ -257,7 +277,27 @@ const TermsOfUse = () => {
             <h2 className="text-2xl font-bold mb-6">12. DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS</h2>
             <div className="space-y-4">
               <div>
-                <p><strong>12.1. Títulos e Interpretação.</strong> Os títulos e cabeçalhos das seções utilizados nestes Termos servem unicamente para fins de conveniência e referência e não deverão afetar, limitar ou de qualquer forma influenciar a interpretação de suas cláusulas.</p>
+                <p><strong>12.1. Acordo Integral (Entire Agreement).</strong> O presente instrumento, em conjunto com a Política de Privacidade e quaisquer outros documentos ou políticas expressamente incorporados por referência, constitui o acordo integral e exclusivo entre o Usuário e a SyD. Este Contrato substitui e prevalece sobre todas e quaisquer negociações, propostas, comunicações, entendimentos e acordos anteriores ou contemporâneos, sejam eles orais ou escritos, a respeito do objeto aqui tratado.</p>
+              </div>
+              
+              <div>
+                <p><strong>12.2. Autonomia das Cláusulas (Severability).</strong> Caso qualquer cláusula, item, subitem ou disposição destes Termos seja declarada nula, inexequível ou ilegal por um tribunal de jurisdição competente, tal disposição será considerada separada e independente das demais. A nulidade, inexequibilidade ou ilegalidade da referida disposição não afetará, de forma alguma, a validade, a legalidade ou a exequibilidade das demais cláusulas e disposições deste Contrato, que permanecerão em pleno vigor e efeito.</p>
+              </div>
+              
+              <div>
+                <p><strong>12.3. Não Renúncia (No Waiver).</strong> A falha, omissão ou demora por parte da SyD em exercer ou exigir o cumprimento de qualquer direito, prerrogativa ou disposição destes Termos não constituirá, em nenhuma hipótese, renúncia a tal direito ou disposição. Qualquer renúncia a direitos deverá ser feita de forma expressa, por escrito e assinada por um representante legal da SyD, e será válida unicamente para a situação específica a que se destinar, não se estendendo a futuras ou outras violações.</p>
+              </div>
+              
+              <div>
+                <p><strong>12.4. Cessão e Transferência (Assignment).</strong> O Usuário não poderá ceder, transferir, sublicenciar ou de qualquer forma delegar seus direitos e obrigações previstos neste Contrato, no todo ou em parte, sem o prévio e expresso consentimento por escrito da SyD. Qualquer tentativa de cessão em violação a esta cláusula será nula e ineficaz. A SyD reserva-se o direito de ceder ou transferir este Contrato, no todo ou em parte, a seu exclusivo critério, a qualquer de suas afiliadas, ou em conexão com uma fusão, aquisição, reorganização societária ou venda da totalidade ou de parte substancial de seus ativos, sem a necessidade de notificação prévia ou consentimento do Usuário.</p>
+              </div>
+              
+              <div>
+                <p><strong>12.5. Títulos e Interpretação.</strong> Os títulos e cabeçalhos das seções utilizados nestes Termos servem unicamente para fins de conveniência e referência e não deverão afetar, limitar ou de qualquer forma influenciar a interpretação de suas cláusulas.</p>
+              </div>
+              
+              <div>
+                <p><strong>12.6. Comunicações.</strong> Todas as comunicações, notificações e avisos da SyD para o Usuário serão considerados válidos e eficazes quando realizados por meio da Plataforma, por e-mail para o endereço eletrônico cadastrado pelo Usuário, ou por qualquer outro meio de comunicação eletrônica disponibilizado. Compete ao Usuário manter seus dados cadastrais sempre atualizados.</p>
               </div>
             </div>
           </section>
@@ -266,7 +306,11 @@ const TermsOfUse = () => {
             <h2 className="text-2xl font-bold mb-6">13. DA LEGISLAÇÃO APLICÁVEL E DO FORO DE ELEIÇÃO</h2>
             <div className="space-y-4">
               <div>
-                <p><strong>13.1.</strong> As partes elegem, de forma irrevogável e irretratável, o foro da Comarca de Sorocaba, SP, para dirimir quaisquer dúvidas, controvérsias ou litígios oriundos deste Contrato, com expressa renúncia a qualquer outro, por mais privilegiado que seja ou venha a ser.</p>
+                <p><strong>13.1.</strong> Estes Termos de Uso, bem como a relação entre as partes, serão regidos, interpretados e executados exclusivamente de acordo com as leis da República Federativa do Brasil, independentemente de conflitos de leis ou de disposições que possam levar à aplicação de leis de outras jurisdições.</p>
+              </div>
+              
+              <div>
+                <p><strong>13.2.</strong> As partes elegem, de forma irrevogável e irretratável, o foro da Comarca de Sorocaba, SP, para dirimir quaisquer dúvidas, controvérsias ou litígios oriundos deste Contrato, com expressa renúncia a qualquer outro, por mais privilegiado que seja ou venha a ser.</p>
               </div>
             </div>
           </section>

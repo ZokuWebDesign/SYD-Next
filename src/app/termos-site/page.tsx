@@ -3,7 +3,7 @@
 import { Button } from "@/components/ui/button";
 import { SOCIAL_LINKS } from "@/constants/links";
 
-const TermsOfUse = () => {
+const WebsiteTerms = () => {
   return (
     <div className="min-h-screen bg-background">
       <main className="max-w-4xl mx-auto px-4 py-16 sm:px-6 lg:px-8">
@@ -232,4 +232,4 @@ const TermsOfUse = () => {
   );
 };
 
-export default TermsOfUse;
+export default WebsiteTerms;
