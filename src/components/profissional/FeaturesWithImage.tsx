@@ -11,12 +11,12 @@ const features = [
     icon: CircleCheckBig,
     title: "Painel gerencial completo",
     description: "Tenha controle total sobre sua agenda, atendimentos realizados, repasses financeiros e indicadores de desempenho, tudo em um só lugar."
-  },
+  },/*
   {
     icon: Banknote,
     title: "6 meses sem custos, com repasses justos",
     description: "Comece a atender sem custos fixos por 6 meses e receba de forma simples e transparente. Você foca no cuidado, e a gente cuida do resto."
-  },
+  },*/
   {
     icon: Tag,
     title: "Prontuário com tags inteligentes",
