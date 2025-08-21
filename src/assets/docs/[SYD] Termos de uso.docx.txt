@@ -1,0 +1,157 @@
+﻿TERMOS DE USO – PLATAFORMA SYD – SAVE YOUR DAY DATA DA ÚLTIMA ATUALIZAÇÃO. AGOSTO DE 2025
+
+
+
+
+O presente instrumento, aqui denominado “Termos de Uso” ou “Termos”, constitui o contrato legal e vinculante que rege, em sua totalidade, a relação jurídica estabelecida entre o USUÁRIO, na qualidade de licenciado e/ou tomador de serviços, e a SYD SAÚDE MENTAL E TECNOLOGIA LTDA LTDA., pessoa jurídica de direito privado, devidamente inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ/MF) sob o nº. 30.984.250/0001-74], com sede estabelecida na Rua Antônio Perez Hernandez, n° 500. Parque Campolim, Sorocaba/SP, doravante designada única e exclusivamente como “SyD”.
+A manifestação de vontade do usuário, expressa através do ato de clicar na opção “aceito”, de prosseguir com o cadastro ou de, por qualquer meio, utilizar a plataforma, configura a aceitação livre, expressa, informada, inequívoca e irretratável de todas as cláusulas, termos e condições aqui estabelecidos, bem como da política de privacidade, a qual é parte integrante e indissociável deste instrumento.
+
+
+
+
+1. DAS DEFINIÇÕES E INTERPRETAÇÃO
+   1. Para os fins de interpretação e aplicação destes Termos, as expressões e termos listados abaixo, quando utilizados em letra maiúscula, terão os significados que lhes são atribuídos a seguir, seja no singular ou no plural.
+
+
+1. Plataforma. Refere-se ao ecossistema tecnológico de propriedade exclusiva da SyD, compreendendo o software, o website oficial (https.//sydapp.com.br/), os aplicativos móveis para sistemas operacionais diversos, as interfaces de programação de aplicações (APIs) e toda a infraestrutura de hardware e software subjacente que possibilita a prestação dos Serviços.
+
+
+2. Usuário. Designação genérica e abrangente que se refere a qualquer pessoa física ou jurídica que acesse, utilize ou interaja com a Plataforma, incluindo, mas não se limitando ao, Usuário Final, Psicólogo(a) e Representante da Empresa Parceira.
+
+
+3. Usuário Final. Pessoa física, na condição de destinatário final, que utiliza os Serviços para buscar e receber atendimento psicológico.
+
+
+4. Psicólogo(a). Profissional liberal de psicologia, autônomo(a), com inscrição ativa e regular junto ao seu respectivo Conselho Regional de Psicologia (CRP), que utiliza
+a Plataforma como ferramenta para ofertar seus serviços profissionais a título oneroso, sem qualquer vínculo empregatício ou de subordinação com a SyD.
+
+
+5. Empresa Parceira. Pessoa jurídica de direito privado ou público que estabelece relação contratual com a SyD para disponibilizar o acesso à Plataforma como benefício a seus colaboradores, funcionários ou membros.
+
+
+6. Conteúdo da SyD. Todo e qualquer ativo de propriedade intelectual, tangível ou intangível, que compõe a Plataforma, incluindo, sem limitação, marcas, logotipos, nomes comerciais, design, identidade visual, layout, textos, gráficos, imagens, vídeos, áudios, códigos-fonte, códigos-objeto, bancos de dados, algoritmos e segredos de negócio.
+
+
+7. Conteúdo do Usuário. Toda e qualquer informação, dado, texto, imagem ou outro material que seja inserido, carregado (uploaded), publicado ou de qualquer forma transmitido pelo Usuário na Plataforma, tais como informações de perfil, comentários e avaliações, excluindo-se expressamente o conteúdo das sessões terapêuticas, o qual é protegido por sigilo profissional e não é acessado pela SyD.
+
+
+8. Serviços. Refere-se, estritamente, aos serviços de intermediação tecnológica, licenciamento de uso de software e facilitação de pagamentos prestados pela SyD, conforme descritos na Cláusula 2ª.
+
+
+
+
+2. DO OBJETO, DA NATUREZA DOS SERVIÇOS E LIMITES DE ATUAÇÃO
+   1. O objeto principal e inalterável destes Termos é a outorga, pela SyD ao Usuário, de uma licença de uso de software, de caráter pessoal, limitado, não exclusivo, intransferível e revogável, para utilização da Plataforma, bem como a regulação das condições para a prestação dos Serviços de intermediação.
+   2. Natureza Jurídica da Intermediação. Fica expressamente estabelecido que a SyD atua como mera provedora de aplicação de internet e intermediadora de tecnologia. Sua atividade consiste em desenvolver, manter e disponibilizar a Plataforma como um canal que conecta, de forma automatizada, a oferta (Psicólogos/as) e a demanda (Usuários Finais) por serviços de psicologia.
+   3. Exclusão de Responsabilidade sobre a Atividade-Fim. A SyD não é uma clínica, um consultório, um hospital ou qualquer tipo de estabelecimento de saúde. A SyD não presta serviços de psicologia, não realiza diagnósticos, não prescreve tratamentos, não emite laudos e não emprega, representa ou se responsabiliza pelos Psicólogos(as), os quais atuam de forma autônoma e independente.
+   4. Responsabilidade Técnica e Ética Profissional. A responsabilidade técnica, ética, civil, administrativa e criminal pelos atendimentos, incluindo a qualidade, a
+eficácia, as técnicas utilizadas e as consequências deles advindas, é integral, exclusiva e intransferível do Psicólogo(a) que os realiza, o qual responde perante o Usuário Final e os órgãos de classe competentes.
+   5. ALERTA DE EMERGÊNCIA E RISCO IMINENTE. A Plataforma NÃO É, SOB NENHUMA  HIPÓTESE,  UM  SERVIÇO  DE  EMERGÊNCIA  OU  URGÊNCIA
+PSIQUIÁTRICA. Não se destina e não é adequada para o manejo de situações de crise aguda, surto psicótico, ideação suicida, risco de auto ou heteroagressão, ou qualquer outra condição que demande intervenção imediata. Em tais circunstâncias, o Usuário deve interromper o uso e contatar imediatamente os serviços de emergência públicos (SAMU - 192, Corpo de Bombeiros - 193), o Centro de Valorização da Vida (CVV - 188) ou dirigir-se ao pronto-socorro hospitalar mais próximo.
+
+
+
+
+3. DO CADASTRO, ELEGIBILIDADE E GESTÃO DA CONTA
+   1. Elegibilidade e Capacidade Civil. Ao se cadastrar, o Usuário declara e garante, sob as penas da lei, ser maior de 18 (dezoito) anos e possuir plena capacidade civil para celebrar o presente Contrato, assumindo todas as obrigações dele decorrentes.
+      1. Utilização por Menores de Idade. A utilização da Plataforma por menores de 18 (dezoito) anos é condicionada ao consentimento prévio, expresso, específico e por escrito dos pais ou responsáveis legais. Estes se responsabilizarão solidariamente por todos os atos praticados pelo menor na Plataforma, bem como por todas as obrigações financeiras e contratuais assumidas em seu nome. Para menores de 12 (doze) anos, é obrigatório o envio e validação do Termo de Consentimento Livre e Esclarecido (TCLE) e de documento de identificação do responsável.
+   2. Veracidade e Responsabilidade Cadastral. O Usuário compromete-se a fornecer informações verdadeiras, exatas, atuais e completas no momento de seu cadastro e a mantê-las devidamente atualizadas. A responsabilidade pela veracidade dos dados é exclusiva do Usuário, que responderá civil e criminalmente por qualquer informação falsa, imprecisa ou desatualizada que venha a causar danos à SyD ou a terceiros.
+   3. Segurança e Confidencialidade da Conta. A guarda, o sigilo e a utilização do login e da senha de acesso são de responsabilidade pessoal e intransferível do Usuário. O Usuário reconhece que qualquer atividade realizada em sua conta será presumida como sendo de sua autoria e responsabilidade. É dever do Usuário notificar a SyD imediatamente sobre qualquer suspeita de uso não autorizado ou quebra de segurança de sua conta.
+4. DAS CONDIÇÕES FINANCEIRAS, PAGAMENTOS E TRIBUTAÇÃO
+   1. Remuneração e Estrutura de Preços. Os valores devidos pela utilização dos serviços onerosos da Plataforma serão claramente exibidos ao Usuário antes de cada contratação. A SyD reserva-se o direito de modificar sua estrutura de preços, criar novos serviços ou alterar os valores existentes a qualquer tempo, mediante comunicação prévia com razoável antecedência. Tais alterações não retroagirão para afetar serviços já contratados e pagos.
+   2. Processamento de Pagamentos. Os pagamentos serão processados através de um Gateway de Pagamento, que é uma empresa terceira especializada. Ao efetuar uma transação, o Usuário reconhece e concorda que estará sujeito aos termos de uso e políticas de privacidade do referido gateway, isentando a SyD de qualquer responsabilidade sobre a relação estabelecida entre o Usuário e o processador de pagamentos. A SyD não armazena dados completos de cartão de crédito.
+   3. Responsabilidade Tributária e Fiscal.
+1. Compete à SyD a emissão de Nota Fiscal de Serviços referente à sua taxa de intermediação, licenciamento de software e demais serviços que prestar diretamente.
+2. Compete única e exclusivamente ao Psicólogo(a), na qualidade de profissional autônomo e prestador do serviço-fim, a emissão de Nota Fiscal aou recibo profissional referente aos honorários recebidos, bem como o recolhimento de todos os tributos incidentes sobre sua atividade (IR, ISS, INSS, etc.).
+   1. Chargeback, Fraude e Inadimplemento. A contestação indevida de um pagamento (chargeback) junto à operadora do cartão, sem prévio e justificado contato com os canais de suporte da SyD, será considerada quebra contratual. Tal ato sujeitará o Usuário à suspensão imediata e/ou exclusão da conta, bem como à cobrança dos valores devidos pelas vias administrativas e/ou judiciais, acrescidos de multa, juros, correção monetária e honorários advocatícios.
+
+
+
+
+5. DO CANCELAMENTO, REEMBOLSO E NÃO COMPARECIMENTO (NO-SHOW)
+   1. Política de Cancelamento para Sessões Agendadas (por iniciativa do Usuário Final).
+1. Para cancelamentos solicitados com antecedência superior a 12 (doze) horas do horário agendado. O Usuário terá direito ao reembolso de 100% (cem por cento) do valor pago.
+2. Para cancelamentos solicitados com antecedência entre 12 (doze) e 4 (quatro) horas do horário agendado. O Usuário terá direito ao reembolso de 50% (cinquenta por cento) do valor pago.
+3. Para cancelamentos solicitados com antecedência inferior a 4 (quatro) horas
+do horário agendado ou em caso de não comparecimento (no-show) do Usuário na sessão. Não haverá direito a qualquer reembolso ou crédito, sendo o valor integralmente retido para cobrir os custos de reserva da agenda do profissional e da plataforma.
+   2. Forma e Prazo de Processamento do Reembolso. O reembolso, quando devido, será processado, a exclusivo critério da SyD, via concessão de créditos na Plataforma para uso futuro ou por meio de estorno no método de pagamento original. O prazo para efetivação do reembolso será de até 30 (trinta) dias úteis a contar da data da solicitação deferida.
+
+
+
+
+6. DAS OBRIGAÇÕES, VEDAÇÕES E REGRAS DE CONDUTA
+   1. Regras Gerais de Conduta (Aplicáveis a todos os Usuários).
+1. O Usuário compromete-se a utilizar a Plataforma de forma ética, lícita e em conformidade com a moral e os bons costumes, respeitando a legislação vigente e os direitos de terceiros.
+2. É terminantemente proibido e considerado violação grave destes Termos: (i) utilizar a Plataforma para qualquer finalidade ilícita, ilegal ou fraudulenta; (ii) praticar ou incitar qualquer forma de assédio, ofensa, calúnia, difamação, discriminação ou constrangimento; (iii) gravar, filmar, fotografar, copiar, reproduzir, distribuir ou de qualquer forma disseminar o conteúdo das sessões ou a imagem de outros Usuários; (iv) realizar engenharia reversa, descompilar, desmontar ou tentar, por qualquer meio, obter o código-fonte ou os segredos de negócio da Plataforma.
+
+
+   2. Regras Específicas e Vedações para o Psicólogo(a).
+1. Conformidade Profissional e Técnica. O Psicólogo(a) obriga-se a manter seu registro profissional ativo e regular, a atuar em estrita e total conformidade com o Código de Ética Profissional do Psicólogo e demais resoluções do Conselho Federal de Psicologia (CFP), e a garantir um ambiente de atendimento privado, sigiloso, silencioso e com infraestrutura técnica adequada (conexão de internet estável, equipamento de áudio e vídeo de qualidade).
+2. Cláusula  de  Não  Prospecção  e  Não  Concorrência (Non-Solicitation/Bypass). É terminantemente proibido ao Psicólogo(a) utilizar a Plataforma, ou as informações de Usuários Finais obtidas por meio dela, para contatar, direcionar, prospectar ou desviar tais Usuários para atendimentos particulares externos, seja a título oneroso ou gratuito. Esta vedação inclui, mas não se limita a, compartilhar contatos pessoais, links para outras plataformas, ou qualquer meio que facilite a comunicação e contratação fora do ecossistema SyD.
+i. Penalidade por Violação. A violação, comprovada ou com fortes indícios, desta  cláusula  de não prospecção implicará na exclusão imediata e
+irreversível do Psicólogo(a) da Plataforma, na retenção de quaisquer valores pendentes de repasse e na aplicação de multa contratual, de natureza não compensatória, no valor correspondente a 10 (dez) vezes a média de seus ganhos mensais brutos na Plataforma nos últimos 6 (seis) meses, a título de perdas e danos pré-fixados, sem prejuízo da apuração e cobrança de danos suplementares.
+3. Confidencialidade do Modelo de Negócio. O Psicólogo(a) compromete-se a manter sigilo absoluto sobre todas as informações não públicas da SyD a que tiver acesso, incluindo seu modelo de negócio, estratégias comerciais, informações financeiras, operacionais e tecnológicas.
+4. Vedações Técnicas de Atuação. É vedado ao Psicólogo(a) utilizar a Plataforma para emitir laudos, atestados ou pareceres formais, bem como realizar qualquer forma de propaganda pessoal ou de terceiros.
+
+
+7. DA PROPRIEDADE INTELECTUAL
+   1. Titularidade do Conteúdo da SyD. O Usuário reconhece e concorda que todo o Conteúdo da SyD é de propriedade única e exclusiva da SyD ou de seus licenciantes, sendo protegido pelas leis de propriedade intelectual nacionais e internacionais. A utilização da Plataforma não confere ao Usuário qualquer direito de propriedade ou titularidade, mas tão somente uma licença de uso, nos termos aqui estabelecidos.
+   2. Licença de Uso do Conteúdo do Usuário. Ao submeter Conteúdo do Usuário na Plataforma, o Usuário concede à SyD uma licença de caráter gratuito, perpétuo, mundial, irrevogável, não exclusivo e sublicenciável para usar, reproduzir, modificar, adaptar, publicar, traduzir, distribuir e exibir tal conteúdo, de forma agregada e anonimizada, para fins legítimos de operação, manutenção, marketing, análise estatística e melhoria dos Serviços e da Plataforma.
+
+
+
+
+8. DA LIMITAÇÃO DE RESPONSABILIDADE E DA AUSÊNCIA DE GARANTIAS (DISCLAIMER)
+   1. A plataforma e os serviços são fornecidos "no estado em que se encontram" ("as is") e "conforme disponível" ("as available"). A syd exclui, na máxima extensão permitida pela lei, todas as garantias de qualquer tipo, sejam elas expressas, implícitas, legais ou de outra natureza, incluindo, mas não se limitando a, garantias de comercialização, adequação a um fim específico, não violação de direitos de terceiros e qualidade satisfatória.
+   2. A SYD não garante e não declara que a plataforma operará de forma ininterrupta, segura, pontual ou livre de erros, vírus ou outros componentes prejudiciais. O uso da plataforma é de risco exclusivo do usuário.
+   3. Em nenhuma hipótese a syd, seus diretores, funcionários, sócios, afiliados ou agentes serão responsáveis por quaisquer danos indiretos, incidentais, especiais, consequenciais, punitivos ou emergentes, incluindo, sem limitação, lucros cessantes, perda de dados, danos morais ou patrimoniais, decorrentes de ou em conexão com o uso, ou a incapacidade de usar, a plataforma ou os serviços.
+
+
+
+
+9. DA INDENIZAÇÃO
+   1. O Usuário concorda em indenizar, defender e isentar a SyD e seus respectivos diretores, conselheiros, funcionários, agentes e sucessores de e contra todas e quaisquer reivindicações, ações judiciais ou administrativas, responsabilidades, danos, perdas, custos e despesas (incluindo, sem limitação, honorários advocatícios razoáveis e custas processuais) que decorram de ou estejam de alguma forma relacionados a. (a) seu uso indevido ou fraudulento da Plataforma; (b) sua violação de qualquer cláusula destes Termos; (c) sua violação de qualquer lei aplicável ou direito de terceiros.
+
+
+
+
+10. DA VIGÊNCIA E RESCISÃO
+   1. Estes Termos entram em vigor na data de sua aceitação pelo Usuário e permanecem válidos por prazo indeterminado, enquanto o Usuário mantiver uma conta ativa na Plataforma.
+   2. O presente Contrato pode ser rescindido, sem justo motivo e sem ônus, por qualquer das partes, a qualquer momento, mediante o simples cancelamento da conta. A rescisão não isenta as partes do cumprimento das obrigações pendentes e não confere direito a qualquer indenização. As cláusulas que, por sua natureza, devam sobreviver à rescisão, incluindo, mas não se limitando a, Propriedade Intelectual, Limitação de Responsabilidade, Indenização, Confidencialidade e Legislação e Foro, permanecerão em pleno vigor e efeito.
+
+
+
+
+11. DA SUSPENSÃO E EXCLUSÃO DO PROFISSIONAL
+
+
+   3. A plataforma reserva-se o direito de suspender ou excluir, de forma imediata e unilateral, o cadastro do profissional, sem que isso gere qualquer direito a indenização ou multa, nas seguintes hipóteses:
+1. Violação de quaisquer disposições deste contrato, dos Termos de Uso ou do Código de Conduta da plataforma;
+2. Recebimento de reiteradas avaliações negativas que, a critério exclusivo da
+plataforma, indiquem a prestação de um serviço inadequado ou que comprometam a reputação da plataforma;
+3. Prática de atos que configurem conduta antiética, ilegal, fraudulenta ou que representem risco à segurança ou integridade dos usuários e da própria plataforma.
+
+
+
+
+12. DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+   1. Acordo Integral (Entire Agreement). O presente instrumento, em conjunto com a Política de Privacidade e quaisquer outros documentos ou políticas expressamente incorporados por referência, constitui o acordo integral e exclusivo entre o Usuário e a SyD. Este Contrato substitui e prevalece sobre todas e quaisquer negociações, propostas, comunicações, entendimentos e acordos anteriores ou contemporâneos, sejam eles orais ou escritos, a respeito do objeto aqui tratado.
+   2. Autonomia das Cláusulas (Severability). Caso qualquer cláusula, item, subitem ou disposição destes Termos seja declarada nula, inexequível ou ilegal por um tribunal de jurisdição competente, tal disposição será considerada separada e independente das demais. A nulidade, inexequibilidade ou ilegalidade da referida disposição não afetará, de forma alguma, a validade, a legalidade ou a exequibilidade das demais cláusulas e disposições deste Contrato, que permanecerão em pleno vigor e efeito.
+   3. Não Renúncia (No Waiver). A falha, omissão ou demora por parte da SyD em exercer ou exigir o cumprimento de qualquer direito, prerrogativa ou disposição destes Termos não constituirá, em nenhuma hipótese, renúncia a tal direito ou disposição. Qualquer renúncia a direitos deverá ser feita de forma expressa, por escrito e assinada por um representante legal da SyD, e será válida unicamente para a situação específica a que se destinar, não se estendendo a futuras ou outras violações.
+   4. Cessão e Transferência (Assignment). O Usuário não poderá ceder, transferir, sublicenciar ou de qualquer forma delegar seus direitos e obrigações previstos neste Contrato, no todo ou em parte, sem o prévio e expresso consentimento por escrito da SyD. Qualquer tentativa de cessão em violação a esta cláusula será nula e ineficaz. A SyD reserva-se o direito de ceder ou transferir este Contrato, no todo ou em parte, a seu exclusivo critério, a qualquer de suas afiliadas, ou em conexão com uma fusão, aquisição, reorganização societária ou venda da totalidade ou de parte substancial de seus ativos, sem a necessidade de notificação prévia ou consentimento do Usuário.
+   5. Títulos e Interpretação. Os títulos e cabeçalhos das seções utilizados nestes Termos servem unicamente para fins de conveniência e referência e não deverão
+afetar, limitar ou de qualquer forma influenciar a interpretação de suas cláusulas.
+
+
+   6. Comunicações. Todas as comunicações, notificações e avisos da SyD para o Usuário serão considerados válidos e eficazes quando realizados por meio da Plataforma, por e-mail para o endereço eletrônico cadastrado pelo Usuário, ou por qualquer outro meio de comunicação eletrônica disponibilizado. Compete ao Usuário manter seus dados cadastrais sempre atualizados.
+
+
+
+
+
+
+
+
+13. DA LEGISLAÇÃO APLICÁVEL E DO FORO DE ELEIÇÃO
+   1. Estes Termos de Uso, bem como a relação entre as partes, serão regidos, interpretados e executados exclusivamente de acordo com as leis da República Federativa do Brasil, independentemente de conflitos de leis ou de disposições que possam levar à aplicação de leis de outras jurisdições.
+   2. As partes elegem, de forma irrevogável e irretratável, o foro da Comarca de Sorocaba, SP, para dirimir quaisquer dúvidas, controvérsias ou litígios oriundos deste Contrato, com expressa renúncia a qualquer outro, por mais privilegiado que seja ou venha a ser.
