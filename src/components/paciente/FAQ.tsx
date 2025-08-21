@@ -10,7 +10,7 @@ import { WHATSAPP_LINKS } from "@/constants/links";
 const faqs = [
   {
     question: "Como funciona o atendimento por minuto?",
-    answer: "No Syd, você paga apenas pelos minutos que escolher. Você pode contratar atendimentos de 20, 40 ou 60 minutos, seja para um acolhimento imediato (urgência emocional) ou uma consulta previamente agendada com um psicólogo credenciado. Caso queira estender a conversa, é possível adicionar mais minutos com facilidade, sendo cobrado proporcionalmente pelo tempo extra escolhido.” (em amarelo, considerar retirar caso fique uma resposta muito longa)."
+    answer: "No Syd, você paga apenas pelos minutos que escolher. Você pode contratar atendimentos de 20, 40 ou 60 minutos, seja para um acolhimento imediato (urgência emocional) ou uma consulta previamente agendada com um psicólogo credenciado. Caso queira estender a conversa, é possível adicionar mais minutos com facilidade, sendo cobrado proporcionalmente pelo tempo extra escolhido."
   },
   {
     question: "Preciso agendar com antecedência?",

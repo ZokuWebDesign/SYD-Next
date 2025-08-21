@@ -18,12 +18,12 @@ const formatAnswer = (text: string) => {
 
 const faqs = [
   {
-    question: "Preciso ter CRP ativo para me cadastrar?",
-    answer: "Sim. Todos os psicólogos da plataforma precisam ter registro profissional ativo e regular no Conselho Regional de Psicologia. É parte do nosso compromisso com a ética e a qualidade dos atendimentos."
+    question: "Preciso ter CRP e CNPJ ativo para me cadastrar?",
+    answer: "Sim. Todos os psicólogos da plataforma precisam ter CNPJ e registro profissional ativo e regular no Conselho Regional de Psicologia. É parte do nosso compromisso com a ética e a qualidade dos atendimentos."
   },
   {
     question: "Como funcionam os repasses financeiros?",
-    answer: "Os valores acumulados por atendimentos são repassados diretamente para sua conta bancária vinculada, conforme a frequência informada no contrato. Você pode acompanhar tudo pelo painel de controle."
+    answer: "O profissional recebe a partir de 50% do valor de todos os atendimentos realizados e concluídos dentro da plataforma. Os valores acumulados são repassados diretamente para sua conta bancária vinculada, conforme a frequência informada no contrato. Você pode acompanhar tudo pelo painel de controle."
   },
   {
     question: "Como funciona a remuneração pelos atendimentos?",
@@ -39,11 +39,11 @@ const faqs = [
   },
   {
     question: "Qual o percentual de repasse e em quanto tempo recebo pelos atendimentos?",
-    answer: "O repasse é justo, transparente e feito diretamente para sua conta cadastrada. O percentual varia conforme o plano ativo (mensal ou anual) e os critérios da plataforma, mas sempre visando valorizar o trabalho do psicólogo. Os pagamentos são processados em até 7 dias úteis após a finalização de cada atendimento."
+    answer: "O profissional recebe a partir de 50% do valor de todos os atendimentos realizados e concluídos dentro da plataforma. O repasse é justo, transparente e feito diretamente para sua conta cadastrada, sempre visando valorizar o trabalho do psicólogo."
   },
   {
     question: "Como funcionam os planos da plataforma para profissionais?",
-    answer: "Após o período promocional sem custo até janeiro de 2026, o profissional poderá escolher entre dois modelos:\nPlano mensal: R$39,90/mês\nPlano anual: R$399,00/ano (economia de 2 meses)\nAmbos os planos garantem acesso completo à plataforma, participação na comunidade, uso do prontuário com tags inteligentes, relatórios, suporte e muito mais."
+    answer: "Após o período promocional sem custo até janeiro de 2026, o profissional poderá escolher entre dois modelos:\nPlano mensal: R$19,90/mês\nPlano anual: R$189,90/ano (economia de 2,5 meses)\nAmbos os planos garantem acesso completo à plataforma, participação na comunidade, uso do prontuário com tags inteligentes, relatórios, suporte e muito mais."
   }
 ];
 
