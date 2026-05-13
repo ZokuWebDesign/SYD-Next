@@ -22,18 +22,18 @@ export const WHATSAPP_LINKS = {
 export const AUTH_LINKS = {
   PATIENT: {
     SIGNUP: 'https://play.google.com/store/apps/details?id=com.spaceapps.syd', /* 'https://syd-83174.bubbleapps.io/auth?t=cadastro&p=Paciente */
-    LOGIN: 'https://syd-83174.bubbleapps.io/auth?t=login&p=Paciente',
-    FORGOT_PASSWORD: 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Paciente'
+    LOGIN: 'https://www.syd.app.br/auth', /* 'https://syd-83174.bubbleapps.io/auth?t=login&p=Paciente' */
+    FORGOT_PASSWORD: 'https://www.syd.app.br/auth', /* 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Paciente' */
   },
   PROFESSIONAL: {
-    SIGNUP: 'https://syd-83174.bubbleapps.io/auth?t=cadastro&p=Profissional',
-    LOGIN: 'https://syd-83174.bubbleapps.io/auth?t=login&p=Profissional',
-    FORGOT_PASSWORD: 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Profissional'
+    SIGNUP: 'https://www.syd.app.br/auth', /* 'https://syd-83174.bubbleapps.io/auth?t=cadastro&p=Profissional' */
+    LOGIN: 'https://www.syd.app.br/auth', /* 'https://syd-83174.bubbleapps.io/auth?t=login&p=Profissional' */
+    FORGOT_PASSWORD: 'https://www.syd.app.br/auth' /* 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=Profissional' */
   },
   RH: {
-    SIGNUP: 'https://syd-83174.bubbleapps.io/auth?t=cadastro&p=RH',
-    LOGIN: 'https://syd-83174.bubbleapps.io/auth?t=login&p=RH',
-    FORGOT_PASSWORD: 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=RH'
+    SIGNUP: 'https://www.syd.app.br/auth', /* 'https://syd-83174.bubbleapps.io/auth?t=cadastro&p=RH' */
+    LOGIN: 'https://www.syd.app.br/auth', /* 'https://syd-83174.bubbleapps.io/auth?t=login&p=RH' */
+    FORGOT_PASSWORD: 'https://www.syd.app.br/auth' /* 'https://syd-83174.bubbleapps.io/auth?t=esqueci_senha&p=RH' */
   }
 } as const;
 
@@ -72,9 +72,9 @@ export const LEGAL_LINKS = {
 
 // External Resources
 export const RESOURCE_LINKS = {
-  HELP_CENTER: 'https://help.syd.app',
-  BLOG: 'https://blog.syd.app',
-  CONTACT: 'https://syd.app/contact'
+  HELP_CENTER: 'https://www.syd.app.br/auth',
+  BLOG: 'https://www.syd.app.br/auth',
+  CONTACT: 'https://www.syd.app.br/auth'
 } as const;
 
 // Dev Resources

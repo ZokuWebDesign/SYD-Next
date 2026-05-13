@@ -37,11 +37,18 @@ const Header = () => {
 
           {/* Desktop CTA */}
           <div className="hidden md:flex items-center gap-3">
-            {/*
+            
             <Button variant="outline" className="rounded-2xl px-4 py-3 text-secondary border-secondary hover:bg-secondary hover:text-white text-xl h-auto">
-              Entrar
+              <a
+                href={AUTH_LINKS.PATIENT.LOGIN}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center w-full gap-1.5"
+              >
+                <span className="pl-0.5 pr-0.5">Entrar</span>
+              </a>
             </Button>
-            */}
+
             <Button className="rounded-2xl w-[224px] p-0 border border-white bg-secondary hover:bg-secondary/90 h-auto">
               <a
                 href={AUTH_LINKS.PATIENT.LOGIN}
@@ -77,11 +84,7 @@ const Header = () => {
               <a href="#contato" className="py-2 px-2">Contato</a>
               <a href="#faq" className="py-2 px-2">FAQ</a>
               <div className="flex flex-col space-y-2 pt-4">
-                {/*
-                <Button variant="outline" className="py-3 text-secondary border-secondary hover:bg-secondary hover:text-white h-auto">
-                  Entrar
-                </Button>
-                */}
+                
                 <Button className="py-3 gap-1.5 border border-white bg-secondary hover:bg-secondary/90 text-white font-semibold h-auto">
                   <a 
                     href={AUTH_LINKS.PATIENT.LOGIN}
@@ -93,6 +96,18 @@ const Header = () => {
                     <span className="pl-0.5 pr-0.5">Agendar consulta</span>
                   </a>
                 </Button>
+
+                <Button variant="outline" className="py-3 gap-1.5 text-secondary border-secondary hover:bg-secondary hover:text-white font-semibold h-auto">
+                  <a
+                    href={AUTH_LINKS.PATIENT.LOGIN}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-center justify-center"
+                  >
+                    <span className="pl-0.5 pr-0.5">Entrar</span>
+                  </a>
+                </Button>
+
               </div>
             </div>
           </div>
