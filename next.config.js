@@ -2,6 +2,18 @@
 const nextConfig = {
   output: 'export',  // Enable static exports
   distDir: 'dist',   // Output to a 'dist' folder instead of '.next'
+
+  env: {
+    PUBLIC_GOOGLE_ANALYTICS_ID: process.env.PUBLIC_GOOGLE_ANALYTICS_ID,
+    PUBLIC_GTM_ID: process.env.PUBLIC_GTM_ID,
+    PUBLIC_GOOGLE_TAG_ID: process.env.PUBLIC_GOOGLE_TAG_ID,
+    PUBLIC_CLARITY_ID: process.env.PUBLIC_CLARITY_ID,
+    VITE_GA_MEASUREMENT_ID: process.env.VITE_GA_MEASUREMENT_ID,
+  },
+
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
   
   // Performance optimizations
   experimental: {

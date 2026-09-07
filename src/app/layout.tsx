@@ -2,6 +2,7 @@ import "@/app/global.css";
 import { metadata } from "./metadata";
 import "@/lib/performance";
 import { Toaster } from "sonner";
+import { AnalyticsHead, AnalyticsBody } from "@/components/Analytics";
 
 export { metadata };
 
@@ -13,6 +14,7 @@ export default function RootLayout({
   return (
     <html lang="pt-BR" className="scroll-smooth">
       <head>
+        <AnalyticsHead />
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/manifest.json" />
@@ -22,6 +24,10 @@ export default function RootLayout({
         {/* Critical preconnects - load these first */}
         <link rel="preconnect" href="https://i.imgur.com" />
         <link rel="dns-prefetch" href="https://i.imgur.com" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://scripts.clarity.ms" />
+        <link rel="dns-prefetch" href="https://scripts.clarity.ms" />
         
         {/* Optional: Add other domains you use */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -43,6 +49,7 @@ export default function RootLayout({
         }} />
       </head>
       <body suppressHydrationWarning className="min-h-screen bg-background font-sans antialiased">
+        <AnalyticsBody />
         {children}
         <Toaster position="bottom-right" richColors />
       </body>
