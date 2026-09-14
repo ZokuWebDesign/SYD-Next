@@ -42,7 +42,7 @@ const AppDownload = () => {
 
         {/* Placeholder image */}
         <div className="w-full">
-          <img src="https://i.imgur.com/IsqWKo2.jpeg" alt="App preview" className="w-full h-auto object-cover rounded-lg" />
+          <img src="https://cdn.sydapp.com.br/sydapp.com.br/IsqWKo2.webp" alt="App preview" className="w-full h-auto object-cover rounded-lg" />
         </div>
       </div>
     </section>

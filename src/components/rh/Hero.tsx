@@ -10,7 +10,7 @@ const Hero = () => {
     >
       {/* Background Image with Next.js Image for better LCP */}
       <Image
-        src="https://i.imgur.com/mqDrhio.jpeg"
+        src="https://cdn.sydapp.com.br/sydapp.com.br/mqDrhio.webp"
         alt="Hero background"
         fill
         className="object-cover -z-10"
@@ -50,7 +50,7 @@ const Hero = () => {
           <div className="relative w-full">
             <div className="py-0 lg:py-10 relative z-10 flex justify-center items-center">
               <img
-                src="/illustrations/hero-illustration.svg"
+                src="https://cdn.sydapp.com.br/sydapp.com.br/illustrations/hero-illustration.svg"
                 alt="Ilustração de atendimento psicológico"
                 className="w-full h-full object-contain max-w-[600px]"
               />

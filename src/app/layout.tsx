@@ -22,8 +22,8 @@ export default function RootLayout({
         <meta name="theme-color" content="#6366f1" />
         
         {/* Critical preconnects - load these first */}
-        <link rel="preconnect" href="https://i.imgur.com" />
-        <link rel="dns-prefetch" href="https://i.imgur.com" />
+        <link rel="preconnect" href="https://cdn.sydapp.com.br" />
+        <link rel="dns-prefetch" href="https://cdn.sydapp.com.br" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://scripts.clarity.ms" />

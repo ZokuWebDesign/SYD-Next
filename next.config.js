@@ -30,7 +30,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'i.imgur.com',
+        hostname: 'cdn.sydapp.com.br',
         port: '',
         pathname: '/**',
       },

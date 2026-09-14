@@ -5,7 +5,7 @@ Welcome to **SYD – Your Digital Psychologist**, a full digital ecosystem built
 You can access the [project's live website here](https://sydapp.com.br/).
 > [Backup link](https://syd.app.br/).
 
-![Project's Cover](https://i.imgur.com/CmMQGV3.png)
+![Project's Cover](https://cdn.sydapp.com.br/sydapp.com.br/CmMQGV3.webp)
 
 > SYD delivers on-demand care, streamlined scheduling, real-time analytics, and a powerful experience for all user profiles — patients, professionals, and companies.
 

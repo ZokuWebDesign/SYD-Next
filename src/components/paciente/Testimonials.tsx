@@ -11,31 +11,31 @@ const testimonials = [
     quote: "A funcionalidade de urgência é sensacional! Em situações que eu não podia esperar dias por uma consulta, o SYD me deu suporte na hora. Recomendo para todos que precisam de apoio imediato.",
     name: "Thaís Moura",
     /*crp: "",*/
-    image: "https://i.imgur.com/RiCNUWV.jpeg"
+    image: "https://cdn.sydapp.com.br/sydapp.com.br/RiCNUWV.webp"
   },
   {
     quote: "Depois que conheci o SYD, nunca mais deixei minha saúde emocional de lado. Os psicólogos são excelentes e o atendimento é muito humano. A plataforma é simples, segura e funciona muito bem.",
     name: "Bruna Almeida",
     /*crp: "",*/
-    image: "https://i.imgur.com/4507tyO.jpeg"
+    image: "https://cdn.sydapp.com.br/sydapp.com.br/4507tyO.webp"
   },
   {
     quote: "A empresa onde trabalho contratou o SYD e foi um divisor de águas. Me senti acolhido em momentos difíceis e passei a ver o cuidado com a saúde mental com outros olhos. Atendimento rápido, sigiloso e de qualidade.",
     name: "Camila Ferreira",
     /*crp: "",*/
-    image: "https://i.imgur.com/mCLpyQD.jpeg"
+    image: "https://cdn.sydapp.com.br/sydapp.com.br/mCLpyQD.webp"
   },
   {
     quote: "Gosto muito da liberdade de pagar por minuto. Sem compromisso, sem pressão, só entro quando realmente preciso. Já usei duas vezes e fui super bem atendida. Recomendo muito!",
     name: "Rafaela Souza",
     /*crp: "",*/
-    image: "https://i.imgur.com/R3VWDDC.jpeg"
+    image: "https://cdn.sydapp.com.br/sydapp.com.br/R3VWDDC.webp"
   },
   {
     quote: "Eu estava em crise de ansiedade numa madrugada e achei o SYD no Google. Em menos de 5 minutos estava conversando com uma psicóloga incrível. Nunca pensei que atendimento psicológico urgente fosse possível assim. Mudou minha vida!",
     name: "Mariana Lopes",
     /*crp: "",*/
-    image: "https://i.imgur.com/kbwztml.jpeg"
+    image: "https://cdn.sydapp.com.br/sydapp.com.br/kbwztml.webp"
   }
 ];
 

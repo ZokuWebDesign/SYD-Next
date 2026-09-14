@@ -11,31 +11,31 @@ const testimonials = [
     quote: "O SYD me proporcionou autonomia real. Eu defino meus horários, planos, tipo de atendimento e ainda conto com um sistema que facilita muito minha rotina. Me sinto respeitada como profissional e acolhida como pessoa.",
     name: "Ana Campos",
     crp: "CRP 06/123456",
-    image: "https://i.imgur.com/9eli6nb.jpeg"
+    image: "https://cdn.sydapp.com.br/sydapp.com.br/9eli6nb.webp"
   },
   {
     quote: "Comecei atendendo nas horas vagas, mas a demanda foi tão constante que hoje atendo exclusivamente pelo SYD. O modelo por minuto é justo e os repasses são sempre pontuais.",
     name: "Ricardo Tavares",
     crp: "CRP 04/987654",
-    image: "https://i.imgur.com/SfXqFUh.jpeg"
+    image: "https://cdn.sydapp.com.br/sydapp.com.br/SfXqFUh.webp"
   },
   {
     quote: "O prontuário com tags inteligentes foi um divisor de águas pra mim. Consigo organizar os casos com agilidade e manter um acompanhamento muito mais eficiente e personalizado.",
     name: "Priscila Andrade",
     crp: "CRP 05/345672",
-    image: "https://i.imgur.com/VG27Yrn.jpeg"
+    image: "https://cdn.sydapp.com.br/sydapp.com.br/VG27Yrn.webp"
   },
   {
     quote: "A plataforma é leve, intuitiva e realmente feita por quem conhece a prática clínica. Me sinto seguro, amparado e conectado com outros profissionais incríveis através da comunidade SYD.",
     name: "Felipe Costa",
     crp: "CRP 01/678901",
-    image: "https://i.imgur.com/enYh7fd.jpeg"
+    image: "https://cdn.sydapp.com.br/sydapp.com.br/enYh7fd.webp"
   },
   {
     quote: "Eu valorizo muito o cuidado com o sigilo e a ética. O SYD entrega isso com excelência, além de me permitir ajudar pacientes em momentos críticos, com a estrutura certa para isso.",
     name: "Larissa Moura",
     crp: "CRP 08/112233",
-    image: "https://i.imgur.com/hKg3f69.jpeg"
+    image: "https://cdn.sydapp.com.br/sydapp.com.br/hKg3f69.webp"
   }
 ];
 

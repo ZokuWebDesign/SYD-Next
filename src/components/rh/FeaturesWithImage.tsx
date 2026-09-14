@@ -67,7 +67,7 @@ const FeaturesWithImage = () => {
       id="beneficios"
       className="relative"
       style={{
-        backgroundImage: `url(https://i.imgur.com/iWCJZ2r.jpeg)`,
+        backgroundImage: `url(https://cdn.sydapp.com.br/sydapp.com.br/iWCJZ2r.webp)`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat'
@@ -91,7 +91,7 @@ const FeaturesWithImage = () => {
 
             <div className="relative hidden lg:block py-0 lg:py-10 z-10 flex justify-center items-center">
               <img
-                src="/illustrations/hero-illustration.svg"
+                src="https://cdn.sydapp.com.br/sydapp.com.br/illustrations/hero-illustration.svg"
                 alt="Ilustração de atendimento psicológico"
                 className="w-full h-full object-contain max-w-[600px]"
               />

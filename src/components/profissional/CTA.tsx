@@ -3,7 +3,7 @@ import { AUTH_LINKS } from "@/constants/links";
 
 const CTA = () => {
   return (
-    <div className="relative bg-cover bg-center" style={{ backgroundImage: `url(https://i.imgur.com/WdhJL9g.jpeg)` }}>
+    <div className="relative bg-cover bg-center" style={{ backgroundImage: `url(https://cdn.sydapp.com.br/sydapp.com.br/WdhJL9g.webp)` }}>
       <div className="absolute inset-0 bg-black/50"></div>
       <div className="relative max-w-4xl mx-auto py-16 lg:py-28 px-4 sm:px-6 lg:px-14 text-center">
         <h2 className="text-white text-3xl lg:text-4xl font-bold mb-4">

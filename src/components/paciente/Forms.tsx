@@ -63,7 +63,7 @@ const Forms = () => {
           {/* Image Section */}
           <div className="relative h-[343px] lg:h-full">
             <img
-              src="https://i.imgur.com/mXBdYI8.jpeg"
+              src="https://cdn.sydapp.com.br/sydapp.com.br/mXBdYI8.webp"
               alt="Escritório"
               className="rounded-2xl shadow-2xl w-full h-full object-cover"
             />

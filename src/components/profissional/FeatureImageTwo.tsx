@@ -8,7 +8,7 @@ const FeatureImageTwo = () => {
       <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
         {/* Image: order-1 on mobile, order-2 on large screens */}
         <div className="w-full order-1 lg:order-2">
-          <img src="https://i.imgur.com/Dwqfcus.jpeg" alt="App preview" className="w-full h-auto object-contain" />
+          <img src="https://cdn.sydapp.com.br/sydapp.com.br/Dwqfcus.webp" alt="App preview" className="w-full h-auto object-contain" />
         </div>
         {/* Content: order-2 on mobile, order-1 on large screens */}
         <div className="flex flex-col items-start gap-6 lg:gap-12 w-full order-2 lg:order-1">

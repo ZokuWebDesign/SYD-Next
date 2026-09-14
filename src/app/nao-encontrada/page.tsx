@@ -18,7 +18,7 @@ const NotFound = () => {
       id="404"
       className="relative min-h-screen flex items-center justify-center border-b border-primary"
       style={{
-        backgroundImage: `url(https://i.imgur.com/mqDrhio.jpeg)`,
+        backgroundImage: `url(https://cdn.sydapp.com.br/sydapp.com.br/mqDrhio.webp)`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat'
@@ -31,7 +31,7 @@ const NotFound = () => {
         <div className="relative">
             <div className="py-0 lg:py-10 relative z-10">
               <img
-                src="/illustrations/hero-illustration.svg"
+                src="https://cdn.sydapp.com.br/sydapp.com.br/illustrations/hero-illustration.svg"
                 alt="Ilustração de atendimento psicológico"
                 className="w-full h-full object-cover"
               />
