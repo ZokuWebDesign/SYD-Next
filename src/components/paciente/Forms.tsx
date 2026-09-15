@@ -31,11 +31,17 @@ const Forms = () => {
     setIsSubmitting(true);
 
     try {
-      const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://api.sydapp.com.br';
-      const res = await fetch(`${API_URL}/api/send`, {
+      const webhookUrl = process.env.NEXT_PUBLIC_CONTACT_WEBHOOK_URL || 'https://n8n.psiativa.com.br/webhook/syd-contato';
+      const res = await fetch(webhookUrl, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({
+          formType: 'paciente',
+          name: formData.name.trim(),
+          email: formData.email.trim(),
+          phone: formData.phone.trim(),
+          message: formData.message.trim(),
+        }),
       });
 
       if (!res.ok) throw new Error('Falha no envio');
@@ -48,7 +54,7 @@ const Forms = () => {
         message: ""
       });
     } catch (error) {
-      console.error('Error sending email:', error);
+      console.error('Error sending message:', error);
       toast.error('Erro ao enviar mensagem. Por favor, tente novamente.');
     } finally {
       setIsSubmitting(false);

@@ -48,12 +48,20 @@ const Forms = () => {
     setIsSubmitting(true);
 
     try {
-      const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://api.sydapp.com.br';
-      const res = await fetch(`${API_URL}/api/send`, {
+      const webhookUrl = process.env.NEXT_PUBLIC_CONTACT_WEBHOOK_URL || 'https://n8n.psiativa.com.br/webhook/syd-contato';
+      const res = await fetch(webhookUrl, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({
+          formType: 'rh',
+          name: formData.name.trim(),
+          cargo: formData.cargo.trim(),
+          empresa: formData.empresa.trim(),
+          email: formData.email.trim(),
+        }),
       });
+
+      if (!res.ok) throw new Error('Falha no envio');
 
       toast.success('Mensagem enviada com sucesso!');
       setFormData({
@@ -63,7 +71,7 @@ const Forms = () => {
         email: ""
       });
     } catch (error) {
-      console.error('Error sending email:', error);
+      console.error('Error sending message:', error);
       toast.error('Erro ao enviar mensagem. Por favor, tente novamente.');
     } finally {
       setIsSubmitting(false);
@@ -168,7 +176,7 @@ const Forms = () => {
                     className="w-full h-12 bg-secondary hover:bg-secondary/90 text-white font-semibold text-lg"
                     disabled={isSubmitting}
                   >
-                    {isSubmitting ? 'Contato enviado!' : 'Quero conversar com um especialista'}
+                    {isSubmitting ? 'Enviando...' : 'Quero conversar com um especialista'}
                   </Button>
 
                   <p className="text-sm text-gray-500">
